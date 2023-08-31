@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+
+body{
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 22px;
+}
+section{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+header{
+    background-color: #1a1a1a;
+}
+header nav a {
+    color: #fff;
+    text-decoration: none;
+}
+header .logo{
+    float: left;
+}
+header nav ul li {
+    float: left;
+}
