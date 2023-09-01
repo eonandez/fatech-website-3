@@ -9,10 +9,12 @@ section{
     margin: 0 auto;
 }
 header{
-    background-color: #1a1a1a;
+    background-color: #0f0303;
+    height: 120px;
+    padding: 10px;
 }
 header nav a {
-    color: #fff;
+    color: #f7f1f1;
     text-decoration: none;
 }
 header .logo{
@@ -20,4 +22,15 @@ header .logo{
 }
 header nav ul li {
     float: left;
+    margin: 20px;
 }
+ section{
+    margin: 0 auto;
+    width: 1200px;
+ }
+ header .logo img{
+    width: 110px;
+ }
+ header nav{
+    padding-top: 20px;
+ }
